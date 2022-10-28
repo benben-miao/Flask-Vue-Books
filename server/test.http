@@ -23,5 +23,5 @@ Content-Type: application/json
 	"book_type": "小说"
 }
 
-DELETE http://127.0.0.1:5000/books/5
+DELETE http://127.0.0.1:5000/books/4
 Accept: application/json
